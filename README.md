@@ -1,0 +1,1 @@
+Google-homepage practise project - HTML and CSS are used.
